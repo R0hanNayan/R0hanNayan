@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R0hanNayan
-- 👀 I’m interested in Problem Solving and Web Development
+- 👀 I’m interested in Coding and Web Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me Email: rohannayan405@gmail.com
 
