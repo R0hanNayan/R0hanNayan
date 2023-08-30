@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1696464000&v=beta&t=hDOaRjLTsB_wiZnqca3h9MV92bdclrzpu5BY4cByS60)]
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1696464000&v=beta&t=hDOaRjLTsB_wiZnqca3h9MV92bdclrzpu5BY4cByS60)
 <h1 align="center">Hi 👋, I'm Rohan Nayan</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <img align="right" alt="Web-Development" width="350" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
