@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **https://personal-portfolio-s6ic.onrender.com/**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1pzT4Xg1dfej-hz1RFXwuiawa87h-uvtu/view?usp=sharing**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1ixvxdyEo3ku-yUsaXbtb8wAth65bZTHC/view?usp=sharing**
 
 <div> <a href="https://www.linkedin.com/in/rohan-nayan-83b7b1220" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/R0hanNayan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
